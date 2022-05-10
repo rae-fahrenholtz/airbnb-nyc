@@ -9,4 +9,4 @@ I used data on Airbnb prices in New York City in 2019. I utilized this data set 
 ## Business Proposal
 Some features of interest include prices, room type, and neighborhood groups. The goal of this business analysis is that with these results, a potential traveler will be able to make quick rental decisions given their budget and need for proximity to downtown. 
 
-See [this notebook](airbnb_nyc.ipynb) for the analysis. 
+See [this notebook](airbnb-nyc.ipynb) for the analysis. 
