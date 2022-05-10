@@ -1,4 +1,4 @@
-# nyc-airbnb
+# Comparison of Airbnb Prices by Location and Type
 
 ## Outline
 For the first capstone project of the Thinkful Data Science program, this analysis conducts a business research proposal utilizing statistical hypothesis testing, such as A/B testing. 
